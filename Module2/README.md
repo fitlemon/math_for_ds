@@ -10,6 +10,8 @@
 3. [Метод ближайших соседей](3_ml_knn.ipynb)  
 4. [Практика. МБС. Классификация](4_ml_practice_classification_knn.ipynb)
 5. [Практика. МБС. Регрессия](5_ml_practice_regression_knn.ipynb)
+6. [Домашнее задание](6_ml_hw.ipynb)
+
 
 ---
 
