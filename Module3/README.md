@@ -10,6 +10,7 @@
 3. [Регуляризация](3_regularisation.ipynb)  
 4. [Регуляризация. Реализация](4_regularisation_practice.ipynb)
 5. [Линейная регрессия](5_linear_regression.ipynb)
+6. [Линейная регрессия. Реализация](6_linear_regression_practice.ipynb)
 
 
 
@@ -20,3 +21,4 @@
 2. [Linear regression and SGD](https://github.com/hse-ds/ml-hse-nes/blob/main/2023/seminars/seminar02/seminar_solution.ipynb)
 3. [ElasticNet](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html)
 4. [Курс "Машинное обучение" на совместной программе НИУ ВШЭ и РЭШ](https://github.com/hse-ds/ml-hse-nes/tree/main)
+5. [Машинное обучение (сов. бак. ВШЭ-РЭШ 2023)](http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%81%D0%BE%D0%B2._%D0%B1%D0%B0%D0%BA._%D0%92%D0%A8%D0%AD-%D0%A0%D0%AD%D0%A8_2023))
