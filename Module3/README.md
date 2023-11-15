@@ -11,6 +11,7 @@
 4. [Регуляризация. Реализация](4_regularisation_practice.ipynb)
 5. [Линейная регрессия](5_linear_regression.ipynb)
 6. [Линейная регрессия. Реализация](6_linear_regression_practice.ipynb)
+7. [Семинар №1. Практика](8_lecture_03_code_online_01_gradient_descent.ipynb)
 
 
 
