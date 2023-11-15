@@ -17,3 +17,6 @@
 
 ### Дополнительная информация по модулю: :books:
 1. [Machine Learning at Lebedev Physical Institute](https://github.com/depot-hep/ml-lpi)
+2. [Linear regression and SGD](https://github.com/hse-ds/ml-hse-nes/blob/main/2023/seminars/seminar02/seminar_solution.ipynb)
+3. [ElasticNet](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html)
+4. [Курс "Машинное обучение" на совместной программе НИУ ВШЭ и РЭШ](https://github.com/hse-ds/ml-hse-nes/tree/main)
