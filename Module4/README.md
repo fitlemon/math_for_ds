@@ -21,3 +21,5 @@
 3. [Модели для классификации: метод опорных векторов (SVM) ](https://python-school.ru/blog/svm_classifier/)
 4. [Задачи для вебинара по теме «Линейная классификация. Логистическая регрессия. Метод опорных векторов») ](lecture_04_code_online_01.ipynb)
 5. [Лекции по методу опорных векторов. К. В. Воронцов](http://www.ccas.ru/voron/download/SVM.pdf)
+6. [Курс "Машинное обучение" на совместной программе НИУ ВШЭ и РЭШ. Логистическая Регрессия](https://github.com/hse-ds/ml-hse-nes/blob/main/2023/lectures/lecture03-logreg.pdf)
+7. [Рассчёт градиента логистического Loss](https://medium.com/@ilmunabid/beginners-guide-to-finding-gradient-derivative-of-log-loss-by-hand-detailed-steps-74a6cacfe5cf)
