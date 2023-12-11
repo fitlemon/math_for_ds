@@ -23,3 +23,5 @@
 5. [Лекции по методу опорных векторов. К. В. Воронцов](http://www.ccas.ru/voron/download/SVM.pdf)
 6. [Курс "Машинное обучение" на совместной программе НИУ ВШЭ и РЭШ. Логистическая Регрессия](https://github.com/hse-ds/ml-hse-nes/blob/main/2023/lectures/lecture03-logreg.pdf)
 7. [Рассчёт градиента логистического Loss](https://medium.com/@ilmunabid/beginners-guide-to-finding-gradient-derivative-of-log-loss-by-hand-detailed-steps-74a6cacfe5cf)
+8. [Logistic Regression. Explanation in grafic](https://mlu-explain.github.io/logistic-regression/)
+9. [Stanford. Logistic regression](https://web.stanford.edu/~jurafsky/slp3/5.pdf)
