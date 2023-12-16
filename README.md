@@ -2,7 +2,7 @@
 
 Конспект по курсу "Математика для Машинного обучения" (Магистратура "Науки о данных" МФТИ - 2023/2025) :blue_book:  
 ---
-### Автор:
+#### Автор конспектов:
 Davron Ikhmatullaev <img src='./static/img/tg.png' width="10" height="10"> [Телеграм](https://t.me/ihmatullaev) <img src='./static/img/linkedin.png' width="10" height="10"> [LinkedIn](https://www.linkedin.com/in/davron-ikhmatullaev/)s
 ## Оглавление
 1. [Модуль №1. Основные термины в МО. Базовая математика в МО](Module1)
